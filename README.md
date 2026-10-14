@@ -12,7 +12,7 @@ Implementation for **MemoryArena: Benchmarking Agent Memory in Interdependent Mu
 
 - `agent/`: task agent implementations.
 - `env/`: environment server, client, and environment systems.
-- `memory/`: memory client and memory systems including long-context, letta, mirix, mem0, mem0-g, ReasoningBank, BM25, Text-embedding RAG,  GraphRAG,  and MemoRAG. 
+- `memory/`: memory client and memory systems including long-context, letta, mirix, mem0, mem0-g, ReasoningBank, BM25, Text-embedding RAG, GraphRAG, MemoRAG, and Agent Memory (`agent_memory`). 
 
 ## API Keys
 - Make sure you have your `OPENAI_API_KEY`, `OPENAI_BASE_URL`,  `GOOGLE_API_KEY`,  `ANTHROPIC_API_KEY`,  `OPENROUTER_API_KEY`, `OPENROUTER_API_BASE_URL` set ready in either your bashrc file or in configs following each setup `md`.
